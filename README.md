@@ -52,5 +52,5 @@ The project integrates hardware sensors with a cloud-based backend to create a s
 - Weight sensor integration for precise caloric intake tracking.
 - Mobile application for iOS and Android.
 
-## 🔗 Original Link
-Find the full source code and documentation here: [AutoPetFEEDER Demonstration](https://youtu.be/c0YBG-16054)
+## 🔗 Demonstration Video!
+Find the demonstration video here: [AutoPetFEEDER Demonstration](https://youtu.be/c0YBG-16054)
